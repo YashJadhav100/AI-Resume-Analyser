@@ -1,6 +1,3 @@
-# AI-Resume-Analyser
-An intelligent NLP-based tool that evaluates how well a resume matches a given job description. Built using Python and Streamlit, the app calculates a relevance percentage and provides actionable keyword feedback to help improve resume targeting for specific roles.
-
 # 🧠 AI Resume Analyzer
 
 A simple AI-powered web app that analyzes how well your resume matches a given job description using NLP techniques. Built with **Python** and **Streamlit**, the app provides a relevance score (in %) and highlights matched and missing keywords to help tailor your resume for better job targeting.
