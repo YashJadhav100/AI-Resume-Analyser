@@ -48,18 +48,22 @@ ai_resume_analyzer/
    git clone https://github.com/YashJadhav100/AI-Resume-Analyser.git
    cd AI-Resume-Analyser
    
-2. Create and activate a virtual environment (optional but recommended)
+2. Create and activate a virtual environment 
+   ```bash
    python -m venv venv
    venv\Scripts\activate
 
-3. Install dependencies
+4. Install dependencies
+   ```bash
    pip install -r requirements.txt
 
-4. Download NLTK stopwords
+6. Download NLTK stopwords
+   ```bash
    import nltk
    nltk.download('stopwords')
 
-5. Run the app
+8. Run the app
+   ```bash
    streamlit run app.py
 
 🌐 Deployment
